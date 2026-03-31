@@ -10,6 +10,8 @@ A feature-rich 3D Voxel Builder built from scratch in Python — inspired by Min
 
 VoxelCraft is a fully functional 3D voxel editor built entirely in Python using the Ursina Engine (powered by Panda3D). Place, remove, paint, fill, copy, paste, and undo blocks in a real-time 3D world with a first-person controller — all from a clean, modular codebase.
 
+You can use this as your python project .. Freely 🙂
+
 ---
 
 ## Features
